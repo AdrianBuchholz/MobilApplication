@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adria\\source\\repos\\MobilApplication\\MobilApplication\\MobilApplication.csproj": {}
+    "C:\\Users\\adria\\source\\repos\\AdrianBuchholz\\MobilApplication\\MobilApplication\\MobilApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adria\\source\\repos\\MobilApplication\\MobilApplication\\MobilApplication.csproj": {
+    "C:\\Users\\adria\\source\\repos\\AdrianBuchholz\\MobilApplication\\MobilApplication\\MobilApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adria\\source\\repos\\MobilApplication\\MobilApplication\\MobilApplication.csproj",
+        "projectUniqueName": "C:\\Users\\adria\\source\\repos\\AdrianBuchholz\\MobilApplication\\MobilApplication\\MobilApplication.csproj",
         "projectName": "MobilApplication",
-        "projectPath": "C:\\Users\\adria\\source\\repos\\MobilApplication\\MobilApplication\\MobilApplication.csproj",
+        "projectPath": "C:\\Users\\adria\\source\\repos\\AdrianBuchholz\\MobilApplication\\MobilApplication\\MobilApplication.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adria\\source\\repos\\MobilApplication\\MobilApplication\\obj\\",
+        "outputPath": "C:\\Users\\adria\\source\\repos\\AdrianBuchholz\\MobilApplication\\MobilApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
